@@ -203,7 +203,7 @@ jobs:
 
       - name: Delete previous insiders release
         if: env.QUALITY == 'insiders'
-        uses: dev-drprasad/delete-older-releases@v0.2.0
+        uses: bhojpur/delete-older-releases@v0.2.0
         with:
           repo: ${{ github.repository_owner }}/openvscode-server
           keep_latest: 0
