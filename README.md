@@ -1,2 +1,2 @@
-# platform-openvscode-server
-This repository is only to produce release of OpenVSCode Server for the Bhojpur.NET Platform
+# Bhojpur.NET Platform - OpenVSCode Server
+This repository is only to produce latest release of the OpenVSCode Server for the Bhojpur.NET Platform.
