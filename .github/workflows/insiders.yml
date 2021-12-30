@@ -33,7 +33,7 @@ jobs:
 
       - name: Configure git credentials
         run: |
-          git config user.name Shashi Bhushan Rai
+          git config user.name shashi-rai
           git config user.email shashi.rai@bhojpur-consulting.org
       - name: Setup Build Environment
         run: |
